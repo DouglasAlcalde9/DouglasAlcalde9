@@ -3,10 +3,12 @@ Estou trilhando meu caminho na área de desenvolvimento Front-End . <br/>
 Já estudei HTML, CSS e Lógica de Programação, atualmente estou focado no estudo de JavaScript. <br/>
 Estou sempre buscando aprender novas tecnologias, desenvolver projetos práticos e evoluir como desenvolvedor front-end.<br/>
 
-💡 Objetivos<br/>
-Consolidar meus conhecimentos em JavaScript. <br/>
-Avançar para frameworks modernos como React.<br/>
-Conquistar minha primeira oportunidade profissional na área de desenvolvimento Front-End.
+<b>💡 Objetivos<br/> </b>
+<ul>
+<li>Consolidar meus conhecimentos em JavaScript.</li>  <br/>
+<li>Avançar para frameworks modernos como React.</li> <br/>
+<li>Conquistar minha primeira oportunidade profissional na área de desenvolvimento Front-End.</li> 
+</ul>
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC6E5H8XIae0l1FFlcSyaBGg)
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/douglasalcalde/)
