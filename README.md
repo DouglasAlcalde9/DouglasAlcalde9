@@ -1,11 +1,11 @@
 ### Olá, eu sou o Douglas Alcalde ✌️
-Estou trilhando meu caminho na área de desenvolvimento Front-End .
-Já estudei HTML, CSS e Lógica de Programação, atualmente estou focado no estudo de JavaScript.
-Estou sempre buscando aprender novas tecnologias, desenvolver projetos práticos e evoluir como desenvolvedor front-end.
+Estou trilhando meu caminho na área de desenvolvimento Front-End . <br/>
+Já estudei HTML, CSS e Lógica de Programação, atualmente estou focado no estudo de JavaScript. <br/>
+Estou sempre buscando aprender novas tecnologias, desenvolver projetos práticos e evoluir como desenvolvedor front-end.<br/>
 
-💡 Objetivos
-Consolidar meus conhecimentos em JavaScript.
-Avançar para frameworks modernos como React.
+💡 Objetivos<br/>
+Consolidar meus conhecimentos em JavaScript. <br/>
+Avançar para frameworks modernos como React.<br/>
 Conquistar minha primeira oportunidade profissional na área de desenvolvimento Front-End.
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC6E5H8XIae0l1FFlcSyaBGg)
